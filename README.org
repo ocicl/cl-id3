@@ -1,0 +1,9 @@
+* cl-id3
+
+A Common Lisp implementation of the ID3 algorithm by R. Quinlan.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/oyvinht/cl-id3.git |
+| commit  | a675e7b                                   |
+| systems | cl-id3                                    |
+|---------+-------------------------------------------|
